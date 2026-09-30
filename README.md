@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer who loves building modern web applications, solving real-world problems, and turning ideas into scalable digital products.
+I’m a Full Stack Developer passionate about building and scaling modern web applications. I’ve worked on real-world projects ranging from e-commerce platforms and content management systems to admin dashboards and financial applications. My experience spans frontend, backend, databases, APIs, authentication, and deployment. I enjoy learning new technologies, solving challenging problems, and turning ideas into clean, reliable, and user-friendly products.
 
 
 ## 🌐 Socials:
