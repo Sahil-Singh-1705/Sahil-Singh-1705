@@ -15,8 +15,101 @@
 </div>
 
 ---
+### 🚀 Featured Deployments & Architecture Showcase
+
+<table>
+  <!-- Project 1 -->
+  <tr>
+    <td width="55%" valign="top">
+      <h3>⚡ 01. Enterprise E-Commerce Platform</h3>
+      <p>
+        A high-concurrency microservices-driven e-commerce engine with real-time stock sync, distributed transaction locking, and optimized payment gateways.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js%2014-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://your-live-demo-link.com">
+          <img src="https://img.shields.io/badge/Live_Demo-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/Sahil-Singh-1705/ecommerce-platform">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+    <td width="45%" valign="middle" align="center">
+      <a href="https://your-live-demo-link.com">
+        <img src="https://placehold.co/600x380/0D1117/00F2FE?text=E-Commerce+Platform+UI&font=fira-code" width="100%" alt="E-Commerce Platform Preview" style="border-radius: 8px;" />
+      </a>
+    </td>
+  </tr>
+
+  <!-- Project 2 -->
+  <tr>
+    <td width="55%" valign="top">
+      <h3>📈 02. Real-Time Financial Analytics Dashboard</h3>
+      <p>
+        Fintech management interface processing high-frequency data streams, instant balance reconciliation via WebSockets, and role-based JWT access controls.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://your-live-demo-link.com">
+          <img src="https://img.shields.io/badge/Live_Demo-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/Sahil-Singh-1705/fintech-dashboard">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+    <td width="45%" valign="middle" align="center">
+      <a href="https://your-live-demo-link.com">
+        <img src="https://placehold.co/600x380/0D1117/00F2FE?text=Analytics+Engine+UI&font=fira-code" width="100%" alt="Financial Dashboard Preview" style="border-radius: 8px;" />
+      </a>
+    </td>
+  </tr>
+
+  <!-- Project 3 -->
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🕹️ 03. Responsive Web Game Engine</h3>
+      <p>
+        Lightweight, high-framerate browser game engineered with custom SVG sprite animations, state management, and fluid collision physics.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://your-live-demo-link.com">
+          <img src="https://img.shields.io/badge/Live_Demo-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/Sahil-Singh-1705/browser-runner-game">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+    <td width="45%" valign="middle" align="center">
+      <a href="https://your-live-demo-link.com">
+        <img src="https://placehold.co/600x380/0D1117/00F2FE?text=Game+Engine+Demo&font=fira-code" width="100%" alt="Game Engine Preview" style="border-radius: 8px;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 💻 `whoami`
 
 ```zsh
 sahil@workstation:~$ neofetch
+
