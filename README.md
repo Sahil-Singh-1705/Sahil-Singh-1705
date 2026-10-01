@@ -1,13 +1,30 @@
-# 💫 About Me:
-I’m a Full Stack Developer passionate about building and scaling modern web applications. I’ve worked on real-world projects ranging from e-commerce platforms and content management systems to admin dashboards and financial applications. My experience spans frontend, backend, databases, APIs, authentication, and deployment. I enjoy learning new technologies, solving challenging problems, and turning ideas into clean, reliable, and user-friendly products.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=220&section=header&text=Hi%20there,%20I'm%20Sahil%20Singh%20👋&fontSize=42&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20React.js%20•%20Next.js%20•%20Node.js&descAlignY=58&descSize=20" width="100%" alt="Header" />
+</div>
 
+<div align="center">
+  <a href="https://github.com/Sahil-Singh-1705">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React.js+%26+Next.js+Enthusiast;Building+Scalable+REST+APIs+%26+CMS;Real-Time+WebSockets+Architect" alt="Typing SVG" />
+  </a>
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahil-singh-669685346?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/sahil_dev_17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahil0sumit1705@gmail.com) 
+<p align="center">
+  <a href="https://github.com/Sahil-Singh-1705"><img src="https://img.shields.io/github/followers/Sahil-Singh-1705?label=Followers&style=for-the-badge&color=2563EB&logo=github" alt="Followers" /></a>
+  <a href="https://github.com/Sahil-Singh-1705"><img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge&logo=codeforces" alt="Status" /></a>
+  <a href="https://github.com/Sahil-Singh-1705"><img src="https://img.shields.io/badge/Focus-Full%20Stack%20Engineering-orange?style=for-the-badge&logo=target" alt="Focus" /></a>
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sahil-Singh-1705&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+
+```javascript
+const sahil = {
+  pronouns: "He/Him",
+  role: "Full Stack Developer",
+  experience: "2+ Years Hands-on",
+  education: "Pursuing Bachelor of Computer Applications (BCA)",
+  strengths: ["Clean Code Architecture", "Real-Time Systems", "Custom Headless CMS"],
+  currentFocus: ["Next.js App Router", "Docker Containerization", "Microservices Design"],
+  openFor: ["Full-Stack Roles", "Frontend Engineering", "Exciting Collaborative Projects"]
+};
