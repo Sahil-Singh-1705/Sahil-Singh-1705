@@ -1,18 +1,115 @@
-# 💫 About Me:
-I’m a Full Stack Developer passionate about building and scaling modern web applications. I’ve worked on real-world projects ranging from e-commerce platforms and content management systems to admin dashboards and financial applications. My experience spans frontend, backend, databases, APIs, authentication, and deployment. I enjoy learning new technologies, solving challenging problems, and turning ideas into clean, reliable, and user-friendly products.
+<div align="center">
 
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · sahil-singh-1705</sub></p>
+<h1>Sahil Singh</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Full-Stack Web Developer</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Building at Techysquad</sub></p>
+<p><a href="https://github.com/sahil-singh-1705">GitHub</a> &nbsp;·&nbsp; <a href="https://x.com/sahil_dev_17">X</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/175137741?u=ed5947b08b1d3e4ecb389ee06fafff3c248d50f0&amp;v=4" width="180" alt="Sahil Singh GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahil-singh-669685346?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/sahil_dev_17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahil0sumit1705@gmail.com) 
+<h2>What teams can evaluate quickly</h2>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sahil-Singh-1705&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Sahil-Singh-1705&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sahil-Singh-1705&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · CSS · TypeScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>9 repositories · 8 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>14 contributions · 4 active days</p></td>
+</tr>
+</table>
 
----
-[![](https://komarev.com/ghpvc/?username=Sahil-Singh-1705&icon=0&color=3)](https://visitcount.itsvg.in)
+<p><sub>Full-Stack Web Developer</sub></p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>9</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>8</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>14</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=sahil-singh-1705&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175137741%3Fu%3Ded5947b08b1d3e4ecb389ee06fafff3c248d50f0%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=sahil-singh-1705&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175137741%3Fu%3Ded5947b08b1d3e4ecb389ee06fafff3c248d50f0%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Sahil Singh GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=sahil-singh-1705&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175137741%3Fu%3Ded5947b08b1d3e4ecb389ee06fafff3c248d50f0%26v%3D4&repos=sahil-singh-1705%2FApex-CMS%2Csahil-singh-1705%2FFusion-Store%2Csahil-singh-1705%2FTask-Master%2Csahil-singh-1705%2FWP-Custom-CMS&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=sahil-singh-1705&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175137741%3Fu%3Ded5947b08b1d3e4ecb389ee06fafff3c248d50f0%26v%3D4&repos=sahil-singh-1705%2FApex-CMS%2Csahil-singh-1705%2FFusion-Store%2Csahil-singh-1705%2FTask-Master%2Csahil-singh-1705%2FWP-Custom-CMS&v=recruiter-projects-1&mode=dark" width="100%" alt="Sahil Singh selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Sahil-Singh-1705/Apex-CMS">Apex-CMS</a></h3>
+<p>A selected public project.</p>
+<p><sub>JavaScript · ⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/Sahil-Singh-1705/Apex-CMS">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Sahil-Singh-1705/Fusion-Store">Fusion-Store</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Sahil-Singh-1705/Task-Master">Task-Master</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Sahil-Singh-1705/WP-Custom-CMS">WP-Custom-CMS</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 1</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=sahil-singh-1705&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175137741%3Fu%3Ded5947b08b1d3e4ecb389ee06fafff3c248d50f0%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=sahil-singh-1705&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175137741%3Fu%3Ded5947b08b1d3e4ecb389ee06fafff3c248d50f0%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Sahil Singh technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>73% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>24% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>3% of public code</sub></td>
+<td width="20%" align="center"><strong>Svelte</strong><br /><sub>1% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>0% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=sahil-singh-1705&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175137741%3Fu%3Ded5947b08b1d3e4ecb389ee06fafff3c248d50f0%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=sahil-singh-1705&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175137741%3Fu%3Ded5947b08b1d3e4ecb389ee06fafff3c248d50f0%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Sahil Singh contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/sahil-singh-1705">GitHub</a><br /><a href="https://x.com/sahil_dev_17">X</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Sahil Singh · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
